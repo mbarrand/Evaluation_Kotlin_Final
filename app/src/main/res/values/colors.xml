@@ -1,0 +1,11 @@
+<resources>
+    <color name="black">#1E1E1E</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="primary"/>
+    <color name="onPrimary"/>
+    <color name="secondary"/>
+    <color name="onSecondary"/>
+
+</resources>

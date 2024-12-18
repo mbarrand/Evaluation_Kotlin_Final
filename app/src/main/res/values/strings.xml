@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">EvalKotlin</string>
+
+<string name="character_phoenix_name">Phoenix</string>
+<string name="character_phoenix_role">Duelist</string>
+<string name="character_phoenix_description">A fiery duelist who excels in combat.</string>
+<string name="character_phoenix_ability_blaze">Blaze</string>
+<string name="character_phoenix_ability_blaze_desc">Create a wall of fire that blocks vision and heals Phoenix.</string>
+<string name="character_phoenix_ability_curveball">Curveball</string>
+<string name="character_phoenix_ability_curveball_desc">Flashbang that curves around corners.</string>
+<string name="character_phoenix_ability_hothands">Hot Hands</string>
+<string name="character_phoenix_ability_hothands_desc">Throw a fireball that damages enemies and heals Phoenix.</string>
+<string name="character_phoenix_ability_runitback">Run It Back</string>
+<string name="character_phoenix_ability_runitback_desc">Mark your current location. If you die during the ability\'s duration, you respawn at the marked location.</string>
+
+<string name="character_sage_name">Sage</string>
+<string name="character_sage_role">Sentinel</string>
+<string name="character_sage_description">A healer and support character who can resurrect teammates.</string>
+<string name="character_sage_ability_barrierorb">Barrier Orb</string>
+<string name="character_sage_ability_barrierorb_desc">Place a solid wall that blocks movement and vision.</string>
+<string name="character_sage_ability_sloworb">Slow Orb</string>
+<string name="character_sage_ability_sloworb_desc">Create a field that slows down players and muffles their movement.</string>
+<string name="character_sage_ability_healingorb">Healing Orb</string>
+<string name="character_sage_ability_healingorb_desc">Heal yourself or teammates with a healing orb.</string>
+<string name="character_sage_ability_resurrection">Resurrection</string>
+<string name="character_sage_ability_resurrection_desc">Revive a dead teammate.</string>
+
+<string name="character_gekko_name">Gekko</string>
+<string name="character_gekko_role">Initiator</string>
+<string name="character_gekko_description">Gekko the Angeleno leads a tight-knit crew of calamitous creatures.</string>
+<string name="character_gekko_ability_wingman">Wingman</string>
+<string name="character_gekko_ability_wingman_desc">Send Wingman forward to scout or plant/defuse the Spike.</string>
+<string name="character_gekko_ability_dizzy">Dizzy</string>
+<string name="character_gekko_ability_dizzy_desc">Send Dizzy soaring forward to blind enemies.</string>
+<string name="character_gekko_ability_moshpit">Mosh Pit</string>
+<string name="character_gekko_ability_moshpit_desc">Throw Mosh like a grenade that explodes on landing.</string>
+<string name="character_gekko_ability_thrash">Thrash</string>
+<string name="character_gekko_ability_thrash_desc">Control Thrash to lash out and detain enemies in its radius.</string>
+
+<string name="character_jett_name">Jett</string>
+<string name="character_jett_role">Duelist</string>
+<string name="character_jett_description">An agile duelist who excels in quick movement and sharp attacks.</string>
+<string name="character_jett_ability_cloudburst">Cloudburst</string>
+<string name="character_jett_ability_cloudburst_desc">Throw a smoke cloud that obscures vision.</string>
+<string name="character_jett_ability_updraft">Updraft</string>
+<string name="character_jett_ability_updraft_desc">Launch yourself into the air.</string>
+<string name="character_jett_ability_tailwind">Tailwind</string>
+<string name="character_jett_ability_tailwind_desc">Dash a short distance in the direction you\'re moving.</string>
+<string name="character_jett_ability_bladestorm">Blade Storm</string>
+<string name="character_jett_ability_bladestorm_desc">Equip a set of deadly throwing knives.</string>
+
+<string name="character_sova_name">Sova</string>
+<string name="character_sova_role">Initiator</string>
+<string name="character_sova_description">A recon specialist who uses his bow to gather information.</string>
+<string name="character_sova_ability_shockbolt">Shock Bolt</string>
+<string name="character_sova_ability_shockbolt_desc">Fire an explosive bolt that deals damage.</string>
+<string name="character_sova_ability_reconbolt">Recon Bolt</string>
+<string name="character_sova_ability_reconbolt_desc">Fire a bolt that reveals enemies in its line of sight.</string>
+<string name="character_sova_ability_owldrone">Owl Drone</string>
+<string name="character_sova_ability_owldrone_desc">Control a drone to scout and mark enemies.</string>
+<string name="character_sova_ability_huntersfury">Hunter\'s Fury</string>
+<string name="character_sova_ability_huntersfury_desc">Fire energy blasts that deal damage and reveal enemies.</string>
+
+<string name="character_cypher_name">Cypher</string>
+<string name="character_cypher_role">Sentinel</string>
+<string name="character_cypher_description">A spy expert who gathers intelligence and controls the battlefield.</string>
+<string name="character_cypher_ability_trapwire">Trapwire</string>
+<string name="character_cypher_ability_trapwire_desc">Place a tripwire that tethers and reveals enemies.</string>
+<string name="character_cypher_ability_cybercage">Cyber Cage</string>
+<string name="character_cypher_ability_cybercage_desc">Create a zone that slows enemies and blocks vision.</string>
+<string name="character_cypher_ability_spycam">Spycam</string>
+<string name="character_cypher_ability_spycam_desc">Place a camera to monitor an area and mark enemies.</string>
+<string name="character_cypher_ability_neuraltheft">Neural Theft</string>
+<string name="character_cypher_ability_neuraltheft_desc">Reveal the location of all enemies after killing one.</string>
+
+<string name="character_raze_name">Raze</string>
+<string name="character_raze_role">Duelist</string>
+<string name="character_raze_description">An explosive duelist who loves to cause chaos.</string>
+<string name="character_raze_ability_boombot">Boom Bot</string>
+<string name="character_raze_ability_boombot_desc">Deploy a robot that chases enemies and explodes.</string>
+<string name="character_raze_ability_blastpack">Blast Pack</string>
+<string name="character_raze_ability_blastpack_desc">Throw a pack that sticks to surfaces and explodes.</string>
+<string name="character_raze_ability_paintshells">Paint Shells</string>
+<string name="character_raze_ability_paintshells_desc">Throw a grenade that deals area damage.</string>
+<string name="character_raze_ability_showstopper">Showstopper</string>
+<string name="character_raze_ability_showstopper_desc">Equip a rocket launcher to deal massive damage.</string>
+
+<string name="character_killjoy_name">Killjoy</string>
+<string name="character_killjoy_role">Sentinel</string>
+<string name="character_killjoy_description">A tactical genius who uses gadgets to control the battlefield.</string>
+<string name="character_killjoy_ability_alarmbot">Alarmbot</string>
+<string name="character_killjoy_ability_alarmbot_desc">Deploy a bot that hunts enemies and applies Vulnerable.</string>
+<string name="character_killjoy_ability_turret">Turret</string>
+<string name="character_killjoy_ability_turret_desc">Deploy a turret that fires at enemies.</string>
+<string name="character_killjoy_ability_nanoswarm">Nanoswarm</string>
+<string name="character_killjoy_ability_nanoswarm_desc">Throw a grenade that deals damage over time.</string>
+<string name="character_killjoy_ability_lockdown">Lockdown</string>
+<string name="character_killjoy_ability_lockdown_desc">Deploy a device that detains all enemies in its radius.</string>
+</resources>
